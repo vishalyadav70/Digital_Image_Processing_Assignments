@@ -1,4 +1,4 @@
-#NT19ECE033 VISHAL YADAV
+#BT19ECE033 VISHAL YADAV
 #Assignment7
 #Bit SLicing on an Image
 
