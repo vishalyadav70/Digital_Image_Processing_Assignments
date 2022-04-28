@@ -3,7 +3,7 @@
 import cv2
 
 # Read the original image
-img = cv2.imread(r"C:\Users\USER\Desktop\wallpapers\vrushaket.jpeg") 
+img = cv2.imread(r"C:\Users\USER\Desktop\wallpapers\vishal.jpeg") 
 # Display original image
 cv2.imshow('Original', img)
 cv2.waitKey(0)
